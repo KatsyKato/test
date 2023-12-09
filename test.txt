@@ -1,1 +1,7 @@
-print("Hello world")
+while True:
+	count = 0
+	count++
+	if cont == 100:
+		break
+	else:
+		print(count)
